@@ -1,0 +1,3 @@
+Good Morning ${PERSON_NAME} 
+
+this is a test message! The next work day is ${DATE}.
